@@ -11,6 +11,6 @@ class AuntEdnaSettlesForTen {
         }
 
         out.println("10 times! Hooray!");
-        out.println("I can swallow!");
+        out.println("I can eat!");
     }
 }
